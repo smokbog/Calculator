@@ -4,7 +4,7 @@ int main() {
     double num1, num2;
     char op;
 
-    std::cout << "Введите первое число: ";
+    std::cout << "Введите первое число:1111111111111111111 ";
     std::cin >> num1;
     std::cout << "Введите операцию (+, -): ";
     std::cin >> op;
