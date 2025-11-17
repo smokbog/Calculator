@@ -8,7 +8,7 @@ int main() {
     std::cin >> num1;
     std::cout << "Введите операцию (+, -): ";
     std::cin >> op;
-    std::cout << "Введите второе число: ";
+    std::cout << "Введите второе число:222222222222222222 ";
     std::cin >> num2;
 
     switch (op) {
