@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 
 int main() {
-    double num1, num2, num3;
+    double num1, num2, num3, num4;
     char op;
 
     std::cout << "Введите первое число:1111111111111111111 ";
@@ -12,6 +12,8 @@ int main() {
     std::cin >> num2;
     std::cout << "Введите второе число:3333333333333333333 ";
     std::cin >> num3;
+    std::cout << "Введите второе число:4444444444444444444 ";
+    std::cin >> num4;
     switch (op) {
     case '+':
         std::cout << "Результат: " << num1 + num2 << std::endl;
